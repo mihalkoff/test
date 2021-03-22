@@ -1,4 +1,3 @@
 bmv
 vw
 trabant
-toyota
